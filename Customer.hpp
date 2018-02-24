@@ -1,7 +1,7 @@
 /**
  * Customer.hpp
  * Name: Junjie Chen
- * Person number: 50200189
+ * Date: 10/22/2017
  *
  * This file contains the definition of the Customer class.
  * Add any fields you wish, but do not change the name of or remove any
