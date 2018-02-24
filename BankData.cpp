@@ -1,7 +1,7 @@
 /**
  * BankData.cpp
  * Name: Junjie Chen
- * Person number: 50200189
+ * Date: 10/22/2017
  *
  * All definitions of functions for the class BankData and the description of all methods are contained in here.
  * Feel free to add more function definitions to this, but you must include at least the required methods.
